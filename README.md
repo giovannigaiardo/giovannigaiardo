@@ -1,6 +1,13 @@
-### Seja bem-vindo(a)!
+### Hi 👋 I'm Giovanni!
 
-Sou um profissional motivado por problemas nas áreas de Dados, *Machine Learning* e Automatização de processos.
+<p> <a href="https://www.linkedin.com/in/giovannigaiardo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+
+### About me :rocket:
+- 💼 I am an Artificial Intelligence Engineer with strong focus in Computer Vision applications @ SENAI Institute of Innovation
+- 🎓 BSc Electrical Engineering @ UFRGS
+- 📚 MSc Student reasearching Learned Spherical Image Compression @ UFRGS
+- 📫 Reach me @ giovannigaiardo@outlook.com
+- 🏡 Porto Alegre, Brazil
 
 <!--
 **giovannigaiardo/giovannigaiardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
